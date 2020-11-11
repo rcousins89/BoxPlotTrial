@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Box Plot.iml" filepath="$PROJECT_DIR$/.idea/Box Plot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Box-Plot/Box-Plot.iml" filepath="$PROJECT_DIR$/Box-Plot/Box-Plot.iml" />
+    </modules>
+  </component>
+</project>
